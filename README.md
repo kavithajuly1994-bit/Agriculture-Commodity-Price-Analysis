@@ -18,10 +18,10 @@ higher wholesale prices and which are lower. Regional Price Variability – To v
 prices vary regionally across different states and mandi markets.
 * Decision Support – To provide data-backed insights that can help traders, analysts, and policymakers make informed pricing and sourcing decisions.
 # 🗂️ Data Source
-Source Description and Timeline: : https://www.data.gov.in/resource/current-daily- price-various-commodities-various-markets-mandi
-Domain: Agrucilture 
+* Source Description and Timeline: : https://www.data.gov.in/resource/current-daily- price-various-commodities-various-markets-mandi
+* Domain: Agrucilture 
 # 🛠️ Tools & Technologies
-Power BI: Dimension Table, Data modelling, DAX calculations, visualization, and interactive dashboard creation.
+* Power BI: Dimension Table, Data modelling, DAX calculations, visualization, and interactive dashboard creation.
 # 🧹 Data Cleaning & Preparation
 * Data Import 
 * Removal of Unnecessary Columns
