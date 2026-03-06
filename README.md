@@ -30,6 +30,8 @@ prices vary regionally across different states and mandi markets.
 * Removing Duplicates records
 * Data Type correction 
 * Calculated Column
+* Dimension Table
+* Relationship Modelling
 
 # 🔍 Exploratory Data Analysis (EDA)
 * Which commodity has the highest modal price across markets?
