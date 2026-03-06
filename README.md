@@ -18,26 +18,27 @@ higher wholesale prices and which are lower. Regional Price Variability – To v
 prices vary regionally across different states and mandi markets.
 * Decision Support – To provide data-backed insights that can help traders, analysts, and policymakers make informed pricing and sourcing decisions.
 # 🗂️ Data Source
-Source Description and Timeline: India Data Portal / Source -Ministry of Power/ Energy - https://indiadataportal.com/p/power/r/mop-power_generation-pl-dl-abc
-Domain: Energy / Renewable Energy (India)
+Source Description and Timeline: : https://www.data.gov.in/resource/current-daily- price-various-commodities-various-markets-mandi
+Domain: Agrucilture 
 # 🛠️ Tools & Technologies
-Excel: Data cleaning, transformation.
 Power BI: Dimension Table, Data modelling, DAX calculations, visualization, and interactive dashboard creation.
 # 🧹 Data Cleaning & Preparation
-Handled missing values and duplicates.
-Formatted data types
-Created new calculated columns
-Descriptive Statistics
-Conditional Formatting
+* Data Import 
+* Removal of Unnecessary Columns
+* Handling Missing values
+* Text Cleaning (TRIM & CLEAN)
+* Removing Duplicates records
+* Data Type correction 
+* Calculated Column
+
 # 🔍 Exploratory Data Analysis (EDA)
-How actual generation compares with planned generation?
-Which states and power stations produce the most power?
-How efficiently the installed capacity is utilized?
-How generation trends change over time?
-image
+* Which commodity has the highest modal price across markets?
+* Which state shows the highest commodity prices?
+* Which markets offer the best prices for agricultural commodities?
+* What is the price variation between minimum and modal prices?
+* Which commodities show the highest price fluctuations?
 # 💡 Key Insights
-Planned and actual generation are generally aligned, showing good planning accuracy.
-Some stations experience negative generation variance indicating underperformance.
-Capacity utilization varies across stations, showing efficiency differences.
-State-wise generation analysis highlights regional performance differences.
-High-performing stations can serve as benchmarks for operational improvements.
+* Agricultural price value is concentrated in select commodities and markets, indicating dependency on limited high-performing segments
+* Strong pricing differences across states reflect regional demand-supply imbalance and uneven agricultural market strength. 
+* Farmers cultivating high-value commodities like Green Chilli may achieve significantly higher revenue compared to low-value crops like Pumpkin. 
+* Large price spread across commodities indicates varying risk levels; high-range commodities may offer high returns but involve greater pricing fluctuation.
